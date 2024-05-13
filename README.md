@@ -11,7 +11,7 @@ npm install --save vicherdev-js-footer
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from 'devcamp-js-footer';
+import { footer } from 'vicherdev-js-footer';
 
 footer('Some Name');
 ```
